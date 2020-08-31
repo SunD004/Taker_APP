@@ -1,0 +1,12 @@
+{
+  "name": "AppTaker",
+  "displayName": "AppTaker",
+  "expo": {
+    "name": "AppTaker",
+    "slug": "AppTaker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
